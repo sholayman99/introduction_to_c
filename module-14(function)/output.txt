@@ -1,0 +1,8 @@
+ceil-> 5
+round-> 5
+round2-> 4
+floor-> 4
+sqrt-> 3
+sqrt1-> 4.472136
+power-> 27
+absolute-> 10
