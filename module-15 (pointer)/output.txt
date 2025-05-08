@@ -1,2 +1,2 @@
-fun function er x: 20
-main function er x: 20
+main:hello
+fun:hello
